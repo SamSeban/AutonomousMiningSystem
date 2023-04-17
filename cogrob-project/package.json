@@ -1,0 +1,23 @@
+{
+  "name": "cogrob-project",
+  "version": "1.0",
+  "description": "CogRob project - Autonomous Mining System",
+  "main": "main.js",
+  "author": "Sam Seban & Nathan Ben Soussan",
+  "license": "MIT",
+  "dependencies": {
+    "minecraft-data": "^3.5.1",
+    "vec3": "^0.1.7",
+    "prismarine-nbt": "^2.2.1",
+    "prismarine-physics": "^1.5.2",
+    "prismarine-block": "^1.16.3",
+    "prismarine-item": "^1.11.5"
+  },
+  "devDependencies": {
+    "minecraft-wrap": "^1.2.1",
+    "standard": "^17.0.0",
+    "mineflayer": "^4.3.0",
+    "prismarine-schematic": "^1.2.3",
+    "mocha": "^10.0.0"
+  }
+}
